@@ -92,9 +92,9 @@ mainApp.listen(PORT, () => {
     console.log (`Listening on Port ${PORT} .... ${++iHitCount}`) ;
 })*/
 
-const appMainPaort = process.env.APP_MAIN_PORT || process.env.PORT || 3001;
-mainApp.listen(appMainPaort, () => {
-    console.log (`Started API Server. Listening on Port ${appMainPaort} .... `) ;
+const appMainPort = process.env.APP_MAIN_PORT || process.env.PORT || 3001;
+mainApp.listen(appMainPort, () => {
+    console.log (`Started API Server. Listening on Port ${appMainPort} .... `) ;
 })
 
 //This is code borrowwed from a Stack Overfloe post:

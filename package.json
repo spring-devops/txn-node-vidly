@@ -1,7 +1,7 @@
 {
   "name": "txn-node-vidly",
   "version": "1.0.0",
-  "description": "*Note: The use of txn- prefix indicates that this is transitional project only at this stage*",
+  "description": "RESTful API Demo for Movie (VIDs) Genres ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
