@@ -47,9 +47,9 @@ App Description: RESTful API Demo for Movie (VIDs) Genres
   - Base address (assuming port 3001, shows **Welcome and Hello World** message only):
     - `http://localhost:3001`
   - A browser will only be able to GET the information at this location:
-    - `http://localhost:3001/api/courses`
-    - `http://localhost:3001/api/courses/1`
-    - `http://localhost:3001/api/courses/2`
+    - `http://localhost:3001/api/genres`
+    - `http://localhost:3001/api/genres/1`
+    - `http://localhost:3001/api/genres/2`
     - etc.
   - Development tools/browser extensions can be used for POST, PUT, DELETE
   - Two examples of such tools are (many exist, do your own research): 
