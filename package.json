@@ -1,0 +1,24 @@
+{
+  "name": "txn-node-vidly",
+  "version": "1.0.0",
+  "description": "*Note: The use of txn- prefix indicates that this is transitional project only at this stage*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spring-devops/txn-node-vidly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spring-devops/txn-node-vidly/issues"
+  },
+  "homepage": "https://github.com/spring-devops/txn-node-vidly#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1"
+  }
+}
